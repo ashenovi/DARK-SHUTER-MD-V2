@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: 'DARK-SHUTER-MD=ia4EkKSb#WESLJP_IY0G50PPYeGTsSJStO7BhSBcpUiaL5HY1Zp4',
+SESSION_ID: 'DARK-SHUTER-MD=rI9j1IQY#lsEBlIQkstryXUMXR_dt_nMQcXibokOjQIUxIC4JZMY',
 GITHUB_AUTH_TOKEN: 'uUPs2aT69odFvFYvPWKi21giQ8EFiE3kTgKX', //"ghp_ " මෙම කොටස ඉවත් කර token එක දාන්න.
 GITHUB_USER_NAME: 'ashenovi',
 
